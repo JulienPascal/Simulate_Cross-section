@@ -4,14 +4,14 @@ This repository contains a notebook illustrating the idea behind Young's method(
 
 ## Notebook
 
-https://github.com/JulienPascal/Simulate_Cross-section/blob/master/Young_2010.ipynb
+https://github.com/JulienPascal/Simulate_Cross-section/blob/main/Young_2010.ipynb
 
 ## Preview
 
 
-![alt text](https://github.com/JulienPascal/Simulate_Cross-section/blob/master/Young_2010_files/Young_2010_18_0.svg)
+![alt text](https://github.com/JulienPascal/Simulate_Cross-section/blob/main/Young_2010_files/Young_2010_18_0.svg)
 
-![alt text](https://github.com/JulienPascal/Simulate_Cross-section/blob/master/Young_2010_files/Young_2010_27_0.svg)
+![alt text](https://github.com/JulienPascal/Simulate_Cross-section/blob/main/Young_2010_files/Young_2010_27_0.svg)
 
 
 ## References
